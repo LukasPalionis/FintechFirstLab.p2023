@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FintechFirstLab.p2023</string>
+    <string name="app_name">Hello World</string>
+    <string name="but_do_smth">Click Me!</string>
 </resources>
